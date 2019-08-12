@@ -25,9 +25,7 @@ $$
 $$
 
 
- And another code is calculate the 
-
-$N_d(dpa)$ to calculate the $\gamma$-ray radiation damage in the materials.
+ And another code is calculate the $N_d(dpa)$ to calculate the $\gamma$-ray radiation damage in the materials.
 $$
 N^e_{dpa}(E)=\int^E_{E_c}N_a \sigma_{dpa}(E')\frac{1}{(-dE'/dx)}dE'
 $$
