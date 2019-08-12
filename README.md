@@ -34,7 +34,11 @@ $$
 
 This folder is a post-process or some useful code to learn the theory or some physical phenomena more and more clear,and I will optimize this folder in my research tour.
 
+![model](<https://github.com/edj19/MCCMalgorithm/blob/master/figures/model.jpg>)
 
+
+
+![photon](<https://github.com/edj19/MCCMalgorithm/blob/master/figures/photon.jpg>)
 
 
 
